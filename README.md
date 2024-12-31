@@ -26,13 +26,13 @@ A responsive and modern admin dashboard built with **React.js** (using Vite) for
 ## 📂 Project Structure
 ```
 root
-├── public/             # Static assets
+├── public/
 ├── src/
-│   ├── components/     # Reusable components
-│   ├── pages/          # Dashboard pages
-│   ├── styles/         # Global and component-specific styles
-│   └── App.jsx         # Entry point for the React app
-└── package.json        # Dependencies and scripts
+│   ├── components/
+│   ├── pages/
+│   ├── styles/
+│   └── App.jsx
+└── package.json
 ```
 
 ---
