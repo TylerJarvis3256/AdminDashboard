@@ -2,7 +2,7 @@
 
 A responsive and modern admin dashboard built with **React.js** (using Vite) for seamless user management and data visualization. This project focuses on creating an intuitive front-end interface while showcasing essential design principles.
 
-![Admin Dashboard Screenshot](#) <!-- Add a screenshot or GIF of your dashboard here -->
+![Admin Dashboard Screenshot](<img width="949" alt="image" src="https://github.com/user-attachments/assets/d3df4d86-da4e-4298-ae57-3cf278705885" />)
 
 ---
 
