@@ -8,7 +8,7 @@ A responsive and modern admin dashboard built with **React.js** (using Vite) for
 
 ## 🚀 Features
 - **Dynamic Dashboard Layout**: Organized structure with an easy-to-navigate UI.
-- **Responsive Design**: Fully functional across devices, ensuring mobile and desktop compatibility.
+- **Responsive Design**: Fully functional across devices (almost), ensuring mobile and desktop compatibility.
 - **React.js Components**: Modular and reusable components for scalability.
 - **Data Visualization**: Placeholder charts and graphs for potential integration with real data.
 
@@ -75,6 +75,7 @@ https://admindashboard-demo.netlify.app/
 
 ## 📝 To-Do
 - [ ] Edit menu and navigation to work across mobile devices
+- [ ] Make data-grids responsive
 
 ---
 
